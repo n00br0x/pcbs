@@ -1,0 +1,23 @@
+Importer Log Report
+Project : STM32.PrjPcb
+
+Section : Import Document - F:\SOLIDWORKS\SOLIDWORKS PCB 2019\Library\STM32F3DISCOVERY (2)\STM32F3DISCOVERY.lia
+    Section : PCB Library - STM32F3DISCOVERY.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token STM32F3DISCOVERY On Line 235
+            Warning - 1 : Skipping Token attachedSymbol On Line 1292
+        EndSection
+    EndSection
+
+    Section : SCH Library - STM32F3DISCOVERY.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 202
+            Warning - 1 : Skipping Token layerContents On Line 209
+            Warning - 1 : Skipping Token layerContents On Line 218
+            Warning - 1 : Skipping Token layerContents On Line 227
+        EndSection
+    EndSection
+EndSection
