@@ -1,0 +1,24 @@
+Importer Log Report
+Project : STM32.PrjPcb
+
+Section : Import Document - F:\SOLIDWORKS\SOLIDWORKS PCB 2019\Library\5499913-1\5499913-1.lia
+    Section : PCB Library - 5499913-1.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 5499913-1 On Line 160
+            Warning - 1 : Skipping Token attachedSymbol On Line 293
+        EndSection
+    EndSection
+
+    Section : SCH Library - 5499913-1.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 20
+            Warning - 1 : Skipping Token padStyleDef On Line 32
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 146
+        EndSection
+    EndSection
+EndSection

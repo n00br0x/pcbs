@@ -1,0 +1,23 @@
+Importer Log Report
+Project : STM32.PrjPcb
+
+Section : Import Document - D:\downloads\2-1761603-3\2-1761603-3.lia
+    Section : PCB Library - 2-1761603-3.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 2-1761603-3 On Line 147
+            Warning - 1 : Skipping Token attachedSymbol On Line 280
+        EndSection
+    EndSection
+
+    Section : SCH Library - 2-1761603-3.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 138
+        EndSection
+    EndSection
+EndSection
